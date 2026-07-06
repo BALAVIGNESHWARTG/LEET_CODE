@@ -23,7 +23,7 @@ Consistency is key! Here is a live look at my coding streaks on GitHub and LeetC
 <br>
 <div align="center">
   <!-- Note: If your LeetCode username is different, update it in the URL below -->
-  <img src="https://leetcard.jacoblin.cool/BALAVIGNESHWARTG?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Balavigneshwar?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ---
