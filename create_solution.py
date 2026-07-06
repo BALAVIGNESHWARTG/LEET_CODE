@@ -44,9 +44,9 @@ def create_solution_template(problem_name, difficulty, language="python"):
     if not os.path.exists(file_path):
         with open(file_path, 'w') as f:
             f.write(content)
-        print(f"✅ Successfully created template at: {file_path}")
+        print(f"[SUCCESS] Successfully created template at: {file_path}")
     else:
-        print(f"⚠️ File already exists at: {file_path}")
+        print(f"[WARNING] File already exists at: {file_path}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Create a boilerplate folder and file for a LeetCode problem.")
